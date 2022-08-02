@@ -22,7 +22,7 @@ const Card = () => {
           <p className="grey">
             <strong>{result.role}</strong>
           </p>
-          <p className="grey">Web Designer</p>
+          <p className="grey">Wep Designer</p>
           <p>
             <strong>Employee ID : {result.employeeId}</strong>
           </p>
