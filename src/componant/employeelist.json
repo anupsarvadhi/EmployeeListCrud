@@ -1,0 +1,72 @@
+[
+    {
+        "img": "e1.jpeg",
+        "fname": "Mike",
+        "lname": "Litaroes",
+        "employeeId": "FT-0003",
+        "email": "mikelit@gmail.com",
+        "mobile": 7531695014,
+        "joinDate": "2020/17/17",
+        "role": "Web Developer",
+        "id": 1,
+        "username": "mike541",
+        "company": "International Software Inc",
+        "department": "Web Devlopment"
+    },
+    {
+        "img": "e2.jpeg",
+        "fname": "Benardo",
+        "lname": "gelviz",
+        "employeeId": "FT-0005",
+        "email": "banardogel@gmail.com",
+        "mobile": 7895641235,
+        "joinDate": "2022/04/02",
+        "role": "Web Developer",
+        "id": 2,
+        "username": "gelv562",
+        "company": "Global Technologies",
+        "department": "IT Menagement"
+    },
+    {
+        "img": "e3.jpeg",
+        "fname": "Jefry ",
+        "lname": "Warden",
+        "employeeId": "FT-0007",
+        "email": "jafrywarden@gmail.com",
+        "mobile": 7531695014,
+        "joinDate": "2022/10/17",
+        "role": "Web Developer",
+        "id": 3,
+        "username": "jefry126",
+        "company": "Delta Infotect",
+        "department": "Web Devlopment"
+    },
+    {
+        "img": "e4.jpeg",
+        "fname": "Jon",
+        "lname": "Doe",
+        "employeeId": "FT-0001",
+        "email": "doejon@gmail.com",
+        "mobile": 9823014856,
+        "joinDate": "2012/09/25",
+        "role": "Web Developer",
+        "id": 4,
+        "username": "jon74",
+        "company": "International Software Inc",
+        "department": "Marketing"
+    },
+    {
+        "img": "e5.jpeg",
+        "fname": "John",
+        "lname": "Smith",
+        "employeeId": "FT-0008",
+        "email": "johnsmith@gmail.com",
+        "mobile": 9854561235,
+        "joinDate": "2018/07/24",
+        "role": "Web Developer",
+        "id": 5,
+        "username": "smit621",
+        "company": "Global Technologies",
+        "department": "IT Menagement"
+    }
+]

@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f8f9f9;
+}
+.main-body {
+  padding: 0 !important;
+}
+.font-btn {
+  width: 44px;
+  height: 41px;
+  font-size: 20px;
+  padding: 5px;
+  line-height: 0;
+  background-color: #fff;
+}
+.addEmployee {
+  height: 41px;
+  width: 200px;
+  border-radius: 20px;
+  background-color: #ffbf00;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+
+tbody,
+td {
+  border-style: none !important;
+  cursor: pointer;
+}
+thead tr {
+  background: #fff;
+}
+tbody tr:nth-child(even) {
+  background: #fff;
+}
+
+tbody tr:nth-child(odd) {
+  background: #d0d3d4;
+}
+tbody tr {
+  line-height: 2;
+}
+.img-icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}
+
+sup {
+  font-size: 15px;
+  color: red;
+}
+.form-control:focus {
+  border-color: #ffbf00 !important;
+  outline: 0 !important;
+  box-shadow: 0 0 0 0.25rem rgba(250, 241, 162, 0.65) !important;
+}
+.form-select:focus {
+  border-color: #ffbf00 !important;
+  outline: 0 !important;
+  box-shadow: 0 0 0 0.25rem rgba(250, 241, 162, 0.65) !important;
+}
+.button {
+  width: 100px;
+  padding: 0px !important;
+  display: flex;
+  border: none;
+  outline: none;
+  background-color: #fff;
+}

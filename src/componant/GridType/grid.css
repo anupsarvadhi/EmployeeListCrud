@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.grid-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.GridBox {
+  height: 150px;
+  text-align: center;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.grid-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 50px;
+}
+.employee-name {
+  font-weight: bolder;
+  margin-bottom: 5px !important;
+}
+.employee-role {
+  font-size: small;
+  font-weight: 600;
+  color: #b3b6b7;
+  line-height: 0;
+}
+.option {
+  line-height: 0;
+  padding-left: 220px;
+  margin-top: -10px;
+  position: relative;
+}
+.btn-2 {
+  padding: 0;
+  line-height: 0;
+}
+/* .popper {
+  margin-top: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.popper .button {
+  width: 150px;
+  background-color: #fff;
+  padding: 3px 25px !important;
+} */
+.popper {
+  position: absolute !important;
+  z-index: -1080 !important;
+}
